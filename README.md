@@ -1,2 +1,2 @@
-# JisuPark-Resume
-
+#Resume of JisuPark
+이 문서는 축약 이력서로써, 각 단원의 링크를 클릭하면, 상세 페이지로 이동합니다.
