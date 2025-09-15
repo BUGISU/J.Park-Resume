@@ -93,32 +93,41 @@ QA 및 반복 테스트를 통해 안정성을 확보하는 개발 문화를 지
 
 ### 3.2 Team Projects (Unity)
 
-| Project                 | Skills                            | Description        |
-| ----------------------- | --------------------------------- | ------------------ |
-| **BMF-CityTourBusan**   | Unity, Cinemachine, WebView       | 부산 배경 사이클링 피트니스 앱  |
-| **BMF-CyclingTour**     | Unity, Cinemachine                | 아시아 배경 사이클링 피트니스 앱 |
-| **BMF-BojamajaCare**    | Unity, Leap Motion, Kinect        | 뇌훈련·치매예방 키오스크 (세로) |
-| **BMF-BojamajaBrain**   | Unity, Leap Motion                | 뇌훈련·치매예방 키오스크 (가로) |
-| **BMF-AmazingCore**     | Unity, Video Player, Localization | 코어 근육 단련 실감형 피트니스  |
-| **BMF-Run.to.the.Moon** | Unity, Timeline, Cinemachine      | 우주 테마 러닝 피트니스 앱    |
-| **Bokcheon-dong**       | Unity, Vuforia, DoTween           | 복천박물관 AR 콘텐츠 앱     |
-| **BojamajaPlay2**       | Unity, Leap Motion                | 모션 캐주얼 게임 10종 통합   |
+| Project                                                                 | Skills                            | Description        |
+| ----------------------------------------------------------------------- | --------------------------------- | ------------------ |
+| [**BMF-CityTourBusan**](https://github.com/JISUSAMA/BMF-CityTourBusan)  | Unity, Cinemachine, WebView       | 부산 배경 사이클링 피트니스 앱  |
+| [**BMF-CyclingTour**](https://github.com/BUGISU/BMF-CyclingTour)      | Unity, Cinemachine                | 아시아 배경 사이클링 피트니스 앱 |
+| [**BMF-BojamajaCare**](https://github.com/JISUSAMA/BMF-BojamajaCare)    | Unity, Leap Motion, Kinect        | 뇌훈련·치매예방 키오스크 (세로) |
+| [**BMF-BojamajaBrain**](https://github.com/JISUSAMA/BMF-BojamajaBrain)   | Unity, Leap Motion                | 뇌훈련·치매예방 키오스크 (가로) |
+| [**BMF-AmazingCore**](https://github.com/JISUSAMA/BMF-AmazingCore)     | Unity, Video Player, Localization | 코어 근육 단련 실감형 피트니스  |
+| [**BMF-Run.to.the.Moon**](https://github.com/JISUSAMA/BMF-Run.to.the.Moon) | Unity, Timeline, Cinemachine      | 우주 테마 러닝 피트니스 앱    |
+| [**Bokcheon-dong**](https://github.com/JISUSAMA/Bokcheon-dong)       | Unity, Vuforia, DoTween           | 복천박물관 AR 콘텐츠 앱     |
+| [**BojamajaPlay2**](https://github.com/JISUSAMA/BojamajaPlay2)       | Unity, Leap Motion                | 모션 캐주얼 게임 10종 통합   |
 
 ---
 
 ## 4. Commercial Projects
 
-| Company  | Project         | Skills                     | Special Note        |
-| -------- | --------------- | -------------------------- | ------------------- |
-| 엠씨미디어솔루션 | 교육용 Unity 콘텐츠   | Unity, Leia Display, XR    | 초등 교육용 실감형 콘텐츠 개발   |
-| 엠씨미디어솔루션 | 피트니스/헬스 콘텐츠     | Unity, 3D Interaction      | 몰입형 피트니스 앱 기능 개발    |
-| 엠씨미디어솔루션 | AR/VR 인터랙션 프로젝트 | Unity, URP, Shader         | 실감형 UI/UX 및 인터랙션 구현 |
-| 게이트웨이즈   | 보자마자 피트니스 시티투어  | Unity, WebView             | 맵 확장, 다국어 지원        |
-| 게이트웨이즈   | 보자마자 브레인        | Unity, Leap Motion         | 뇌훈련/치매예방 콘텐츠        |
-| 게이트웨이즈   | 보자마자 케어         | Unity, Kinect, Leap Motion | 손동작·전신 운동 콘텐츠       |
-| 게이트웨이즈   | 런투더문            | Unity, Timeline            | 맵 20종, 특수 이벤트 시스템   |
-| 게이트웨이즈   | 복둥이의 시간여행       | Unity, Vuforia             | AR 콘텐츠 (박물관 전시)     |
-| 게이트웨이즈   | 보자마자 PLAY2      | Unity, Leap Motion         | 10종 모션 게임 + 광고·상점   |
+| Company      | Project                                                                            | Skills                                   | Description                         |
+| ------------ | ---------------------------------------------------------------------------------- | ---------------------------------------- | ----------------------------------- |
+| **엠씨미디어솔루션** | [음악 마법 모험 (Music Magic Adventure)](https://github.com/BUGISU/MC_NB_Music)                                         | Unity, Leia Display, XR                  | 초등학교 1학년 대상 음악 교육 XR 콘텐츠 (리듬 조합 미션) |
+| **엠씨미디어솔루션** | [자연의 신비 모험 (Adventure of Nature’s Mystery)](https://github.com/BUGISU/MC_NB_Nature)                               | Unity, XR                                | 자연 탐구형 학습 콘텐츠                       |
+| **엠씨미디어솔루션** | [우리들의 색깔 학교 (Color School Adventure)](https://github.com/BUGISU/MC_NB_Art)                                    | Unity, Leia 3D, DoTween, Localization    | 색깔 인식·혼합 학습, 드래그 앤 드롭 인터랙션          |
+| **엠씨미디어솔루션** | [지금 몇 시일까요? (What Time Is It?)](https://github.com/BUGISU/MC_NB_Clock)                                           | Unity, Timeline, Animation               | 시계탑·시계 기반 시간 학습 콘텐츠                 |
+| **엠씨미디어솔루션** | [영어 주문을 찾아서 (English Magic Adventure)](https://github.com/BUGISU/MC_NB_English)                            | Unity, Leia Display, XR                  | 영어 단어 찾기 및 문장 조합 미션                 |
+| **엠씨미디어솔루션** | [물의 상태 변화 관찰하기](https://github.com/BUGISU/MC_NET_10_0102)                | Unity 2022.3 LTS, URP, Leia Lume Pad 2   | 물의 상태 변화(융해·기화·응결·응고) 실험 및 물의 순환, 퀴즈 포함 |
+| **엠씨미디어솔루션** | [세포의 세계: 생명의 기본 단위를 탐험하다]()                                         | Unity, NUBIA PAD 3D, 3D Visualization    | 동물세포·식물세포 소기관 탐구, 퀴즈 학습             |
+| **엠씨미디어솔루션** | [🧬 PCR 검사를 활용한 탐구 활동]()                                                 | Unity, Leia 3D, Interaction, Narration   | DNA 조립 → PCR 실험 3단계 → 분석·퀴즈         |
+| **게이트웨이즈**   | [BMF-CityTourBusan](https://github.com/BUGISU/BMF-CityTourBusan)                 | Unity, Cinemachine, WebView              | 부산 배경 사이클링 피트니스 앱                   |
+| **게이트웨이즈**   | [BMF-CyclingTour](https://github.com/BUGISU/BMF-CyclingTour)                     | Unity, Cinemachine                       | 아시아 배경 사이클링 피트니스 앱                  |
+| **게이트웨이즈**   | [BMF-BojamajaCare](https://github.com/BUGISU/BMF-BojamajaCare)                   | Unity, Leap Motion, Kinect               | 뇌훈련·치매예방 키오스크 (세로)                  |
+| **게이트웨이즈**   | [BMF-BojamajaBrain](https://github.com/BUGISU/BMF-BojamajaBrain)                 | Unity, Leap Motion                       | 뇌훈련·치매예방 키오스크 (가로)                  |
+| **게이트웨이즈**   | [BMF-AmazingCore](https://github.com/JISUSAMA/BMF-AmazingCore)                     | Unity, Video Player, Localization        | 코어 근육 단련 실감형 피트니스                   |
+| **게이트웨이즈**   | [BMF-Run.to.the.Moon](https://github.com/BUGISU/BMF-Run.to.the.Moon)             | Unity, Timeline, Cinemachine             | 우주 테마 러닝 피트니스 앱                     |
+| **게이트웨이즈**   | [Bokcheon-dong](https://github.com/JISUSAMA/Bokcheon-dong)                         | Unity, Vuforia, DoTween                  | 복천박물관 AR 콘텐츠 앱                      |
+| **게이트웨이즈**   | [BojamajaPlay2 (Mobile)](https://github.com/BUGISU/BojamajaPlay2_mobile)         | Unity, AdMob, IAP, Video Player          | 모바일 모션 캐주얼 게임 10종                   |
+| **게이트웨이즈**   | [BojamajaPlay2 (Realmotion)](https://github.com/BUGISU/BojamajaPlay2_realmotion) | Unity, Leap Motion, Video Player         | 리얼모션 기반 모션 캐주얼 게임 10종               |
+
 
 ---
 
