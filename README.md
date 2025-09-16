@@ -9,23 +9,21 @@
 ### 1.1 Profile
 
 * 이름: 박지수
-* 생년월일: 1996-02-18
-* 연락처: 010-9917-2905
 * Github: [https://github.com/JISUSAMA](https://github.com/JISUSAMA)
-
+* Blog(Tistory): [https://j2su0218.tistory.com](https://j2su0218.tistory.com)
 ### 1.2 Education
-
 * 동명대학교, 2015-03 \~ 2020-08
 
   * 전공: 게임공학과
 * 삼산고등학교, 2012-03 \~ 2015-02
 
-### 1.3 Awards
+#### 🏆 Achievements & Exhibitions
 
-* VR/AR 콘텐츠 해커톤 (2020) – 대상
-* 2021 IT EXPO BUSAN 전시회 참여
-* 2021 BUSANKIMES 전시회 참여
-* 2022 G-STAR 전시회 참여
+* **2020** 경기도 VR/AR 해커톤 – **대상 수상** (개발 프로젝트 팀 멘토로 참여)
+* **IT EXPO BUSAN 2021** – XR/게임 콘텐츠 전시
+* **G-STAR 2022** – 교육 및 체험형 Unity 콘텐츠 전시
+* **에듀테크 코리아 페어 2025 (EdTech Korea Fair 2025)** – 교육용 XR 콘텐츠 전시
+* **제16회 에듀플러스위크 미래교육박람회 2025** – XR 기반 초등 교육 콘텐츠 시연
 
 ### 1.4 Skills
 
@@ -87,9 +85,11 @@ QA 및 반복 테스트를 통해 안정성을 확보하는 개발 문화를 지
 
 | Project        | Skills             | Description                |
 | -------------- | ------------------ | -------------------------- |
-| **SnapTide**   | Spring Boot, React | 사진 기반 소셜 플랫폼, CRUD 및 댓글 기능 |
-| **FilmCritiq** | Spring Boot, React | 영화 리뷰 작성 및 공유 플랫폼          |
-| **ShackPot**   | Spring Boot, React | 단백질 쉐이크 정보 제공 및 고객센터 기능    |
+| **SnapTide** <br> [🔗 Frontend](https://github.com/BUGISU/SnapTide) · [🔗 Backend](https://github.com/BUGISU/SnapTideAPI) | Spring Boot, React | 사진 기반 소셜 플랫폼, CRUD 및 댓글 기능 |
+| **FilmCritiq** <br> [🔗 Frontend](https://github.com/BUGISU/FilmCritiq) | Spring Boot, React | 영화 리뷰 작성 및 공유 플랫폼 |
+| **ShackPot** <br> [🔗 Frontend](https://github.com/BUGISU/Team_ShakePot) | Spring Boot, React | 단백질 쉐이크 정보 제공 및 고객센터 기능 |
+
+
 
 ### 3.2 Team Projects (Unity)
 
@@ -115,9 +115,9 @@ QA 및 반복 테스트를 통해 안정성을 확보하는 개발 문화를 지
 | **엠씨미디어솔루션** | [우리들의 색깔 학교 (Color School Adventure)](https://github.com/BUGISU/MC_NB_Art)                                    | Unity, Leia 3D, DoTween, Localization    | 색깔 인식·혼합 학습, 드래그 앤 드롭 인터랙션          |
 | **엠씨미디어솔루션** | [지금 몇 시일까요? (What Time Is It?)](https://github.com/BUGISU/MC_NB_Clock)                                           | Unity, Timeline, Animation               | 시계탑·시계 기반 시간 학습 콘텐츠                 |
 | **엠씨미디어솔루션** | [영어 주문을 찾아서 (English Magic Adventure)](https://github.com/BUGISU/MC_NB_English)                            | Unity, Leia Display, XR                  | 영어 단어 찾기 및 문장 조합 미션                 |
-| **엠씨미디어솔루션** | [물의 상태 변화 관찰하기](https://github.com/BUGISU/MC_NET_10_0102)                | Unity 2022.3 LTS, URP, Leia Lume Pad 2   | 물의 상태 변화(융해·기화·응결·응고) 실험 및 물의 순환, 퀴즈 포함 |
-| **엠씨미디어솔루션** | [세포의 세계: 생명의 기본 단위를 탐험하다]()                                         | Unity, NUBIA PAD 3D, 3D Visualization    | 동물세포·식물세포 소기관 탐구, 퀴즈 학습             |
-| **엠씨미디어솔루션** | [🧬 PCR 검사를 활용한 탐구 활동]()                                                 | Unity, Leia 3D, Interaction, Narration   | DNA 조립 → PCR 실험 3단계 → 분석·퀴즈         |
+| **엠씨미디어솔루션** | [물의 상태 변화 관찰하기](https://github.com/BUGISU/MC_NET_10_0102)                | Unity ,Leia Unity SDK, DOTween  | 물의 상태 변화(융해·기화·응결·응고) 실험 및 물의 순환, 퀴즈 포함 |
+| **엠씨미디어솔루션** | [세포의 세계: 생명의 기본 단위를 탐험하다](https://github.com/BUGISU/NMB_09_0201)  | Unity, NUBIA PAD 3D, 3D Visualization    | 동물세포·식물세포 소기관 탐구, 퀴즈 학습             |
+| **엠씨미디어솔루션** | [🧬 PCR 검사를 활용한 탐구 활동](https://github.com/BUGISU/MC_LHT2_03_PCR)      | Unity, Leia 3D, Interaction, Narration   | DNA 조립 → PCR 실험 3단계 → 분석·퀴즈         |
 | **게이트웨이즈**   | [BMF-CityTourBusan](https://github.com/BUGISU/BMF-CityTourBusan)                 | Unity, Cinemachine, WebView              | 부산 배경 사이클링 피트니스 앱                   |
 | **게이트웨이즈**   | [BMF-CyclingTour](https://github.com/BUGISU/BMF-CyclingTour)                     | Unity, Cinemachine                       | 아시아 배경 사이클링 피트니스 앱                  |
 | **게이트웨이즈**   | [BMF-BojamajaCare](https://github.com/BUGISU/BMF-BojamajaCare)                   | Unity, Leap Motion, Kinect               | 뇌훈련·치매예방 키오스크 (세로)                  |
