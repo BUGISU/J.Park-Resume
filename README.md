@@ -59,23 +59,9 @@
 
 ### 2.1 For a lifetime
 
-어린 시절부터 게임과 프로그래밍에 열정을 갖고 탐구했으며, 대학과 실무에서 Unity 기반 개발 경험을 꾸준히 쌓았습니다.
+Unity 기반 XR·교육·피트니스 콘텐츠를 개발해온 경험을 바탕으로, 다양한 프로젝트를 통해 몰입감 있는 사용자 경험을 구현해왔습니다. 또한 Spring Boot, React, Python 등 웹 기술도 습득하며 역량을 확장했고, GitHub와 블로그를 통해 학습과 성과를 꾸준히 기록하고 있습니다.
 
-### 2.2 Self Improvement
-
-Unity, Spring Boot, React, Python 등 다양한 기술을 프로젝트에 적용하며 꾸준히 학습하고 성장했습니다.
-
-### 2.3 Standardization
-
-모듈화된 코드 구조와 다국어 지원(Localization)을 적용해 확장성과 유지보수성을 고려한 개발을 지향합니다.
-
-### 2.4 Documentation
-
-GitHub와 블로그를 통해 프로젝트 기록 및 기술 문서를 꾸준히 정리·공유하고 있습니다.
-
-### 2.5 Test Driven Development
-
-QA 및 반복 테스트를 통해 안정성을 확보하는 개발 문화를 지향합니다.
+I have experience developing XR, educational, and fitness content with Unity, creating immersive user experiences through various projects. I also expanded my skills with web technologies such as Spring Boot, React, and Python, while consistently documenting my work and learning progress on GitHub and my blog.
 
 ---
 
