@@ -45,7 +45,6 @@
 
 ### 1.5 Experiences
 
-* 프로그래밍 경험: 7년
 * 총 상용 경력: 5년+
 
 | Company     | Entry Date | Leave Date | Role                    |
