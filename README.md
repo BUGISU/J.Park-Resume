@@ -70,8 +70,8 @@ I have experience developing XR, educational, and fitness content with Unity, cr
 | **SnapTide** <br> [🔗 Frontend](https://github.com/BUGISU/SnapTide) · [🔗 Backend](https://github.com/BUGISU/SnapTideAPI) | Spring Boot, React        | 사진 기반 소셜 플랫폼, CRUD 및 댓글 기능                                 |
 | **FilmCritiq** <br> [🔗 Frontend](https://github.com/BUGISU/FilmCritiq)                                                   | Spring Boot, React        | 영화 리뷰 작성 및 공유 플랫폼                                          |
 | **ShackPot** <br> [🔗 Frontend](https://github.com/BUGISU/Team_ShakePot)                                                  | Spring Boot, React        | 단백질 쉐이크 정보 제공 및 고객센터 기능                                    |
-| **check-license-firebase** <br> [🔗 Repository](https://github.com/JISUSAMA/check-license-firebase)                       | Unity, Firebase Firestore | 앱 라이선스 키 등록 및 검증 시스템 (LicenseUploader / LicenseChecker 기반) |
-| **RestGallery** <br> [🔗 Repository](https://github.com/JISUSAMA/RestGallery)                                             | Unity, REST API           | 이미지 업로드·조회·삭제 기능을 지원하는 RESTful 갤러리 관리 프로젝트                 |
+| **check-license-firebase** <br> [🔗 Repository](https://github.com/BUGISU/check-license-firebase)                       | Unity, Firebase Firestore | 앱 라이선스 키 등록 및 검증 시스템 (LicenseUploader / LicenseChecker 기반) |
+| **RestGallery** <br> [🔗 Repository](https://github.com/BUGISU/RestGallery)                                             | Unity, REST API           | 이미지 업로드·조회·삭제 기능을 지원하는 RESTful 갤러리 관리 프로젝트                 |
 
 ---
 
