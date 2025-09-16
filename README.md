@@ -57,8 +57,6 @@
 
 ## 2. Introduction
 
-### 2.1 For a lifetime
-
 Unity 기반 XR·교육·피트니스 콘텐츠를 개발해온 경험을 바탕으로, 다양한 프로젝트를 통해 몰입감 있는 사용자 경험을 구현해왔습니다. 또한 Spring Boot, React, Python 등 웹 기술도 습득하며 역량을 확장했고, GitHub와 블로그를 통해 학습과 성과를 꾸준히 기록하고 있습니다.
 
 I have experience developing XR, educational, and fitness content with Unity, creating immersive user experiences through various projects. I also expanded my skills with web technologies such as Spring Boot, React, and Python, while consistently documenting my work and learning progress on GitHub and my blog.
