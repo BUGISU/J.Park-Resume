@@ -9,7 +9,7 @@
 ### 1.1 Profile
 
 * 이름: 박지수
-* Github: [https://github.com/JISUSAMA](https://github.com/JISUSAMA)
+* Github: [https://github.com/BUGISU](https://github.com/BUGISU)
 * Blog(Tistory): [https://j2su0218.tistory.com](https://j2su0218.tistory.com)
 ### 1.2 Education
 * 동명대학교, 2015-03 \~ 2020-08
