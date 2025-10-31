@@ -8,7 +8,7 @@
 | :--- | :--- |
 | **GitHub** | [https://github.com/BUGISU](https://github.com/BUGISU) |
 | **Blog (Tistory)** | [https://j2su0218.tistory.com](https://j2su0218.tistory.com) |
-| **Portfolio** | [https://github.com/BUGISU/JisuPark-Resume](https://github.com/BUGISU/J.Park-Resume) |
+| **Portfolio** | [https://github.com/BUGISU/J.Park-Resume](https://github.com/BUGISU/J.Park-Resume) |
 
 ---
 
